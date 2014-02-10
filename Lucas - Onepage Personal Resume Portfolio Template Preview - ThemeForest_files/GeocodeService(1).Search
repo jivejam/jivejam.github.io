@@ -1,0 +1,69 @@
+_xdc_._3o3v01 && _xdc_._3o3v01( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9930",
+               "short_name" : "9930",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "124th Avenue Northeast",
+               "short_name" : "124th Ave NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Север Роуз Хилл",
+               "short_name" : "Север Роуз Хилл",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Киркленд",
+               "short_name" : "Киркленд",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Кинг",
+               "short_name" : "Кинг",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Вашингтон",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Соединенные Штаты Америки",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98033",
+               "short_name" : "98033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9930 124th Avenue Northeast, Киркленд, Вашингтон 98033, США",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.6889853,
+               "lng" : -122.174403
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.69033428029149,
+                  "lng" : -122.1730540197085
+               },
+               "southwest" : {
+                  "lat" : 47.6876363197085,
+                  "lng" : -122.1757519802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
