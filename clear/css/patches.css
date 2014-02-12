@@ -1,0 +1,38 @@
+.gm-style {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    text-decoration: none
+}
+.intro {
+    margin-top: 0!important;
+}
+.logo h2 {
+    font-family: inherit!important;
+}
+.jam_header {
+    background: #FFA500!important;
+    text-decoration: none!important;
+    color: #FFFFFF!important;
+}
+ul.nav a {
+    text-align: center;
+}
+.intro h3 {
+    font-family: inherit!important;
+}
+.timeline-item-content h3 {
+    font-family: inherit!important;
+}
+.timeline-item h4 {
+    font-family: inherit!important;
+}
+.section {
+    padding: 0!important;
+}
+.section#personal {
+    margin-top: 10px;
+}
+.jj_logo {
+    width: 200px;
+}
