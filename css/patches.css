@@ -35,4 +35,6 @@ ul.nav a {
 }
 .jj_logo {
     width: 200px;
+    margin-left: 60px;
+    position: fixed;
 }
